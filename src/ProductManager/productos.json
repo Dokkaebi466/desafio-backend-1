@@ -1,0 +1,38 @@
+[
+    {
+      "id": "ae9f41a4-8106-4876-828a-5b09efe41518",
+      "title": "Oxandrolona Roid Plus",
+      "description": "Inyectable",
+      "price": 79990,
+      "thumbnail": "sin imagen",
+      "code": "CCC001",
+      "stock": 12
+    },
+    {
+      "id": "ae9f41a4-8106-4876-828a-5b09efe41318",
+      "title": "rembolona Acetato Landerland Gold",
+      "description": "Inyectable",
+      "price": 79990,
+      "thumbnail": "sin imagen",
+      "code": "CCC002",
+      "stock": 5
+    },
+    {
+      "id": "ae9f41a4-8106-4876-828a-5b09efe41218",
+      "title": "Super Test 450A-Pharma",
+      "description": "Inyectable",
+      "price": 74900,
+      "thumbnail": "sin imagen",
+      "code": "CCC003",
+      "stock": 17
+    },
+    {
+        "id": "ae9f41a4-8106-4876-828a-5b09efe41218",
+        "title": "Tamoxifeno-Taxus",
+        "description": "Via Oral",
+        "price": 24990,
+        "thumbnail": "sin imagen",
+        "code": "CCC004",
+        "stock": 25
+      }
+  ]
